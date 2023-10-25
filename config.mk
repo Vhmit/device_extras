@@ -3,3 +3,6 @@ PRODUCT_PACKAGES += \
     
 PRODUCT_PACKAGES += \
     GcamGo
+    
+PRODUCT_PACKAGES += \
+    QPGallery
